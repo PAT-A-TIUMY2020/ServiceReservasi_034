@@ -64,6 +64,6 @@ namespace ServiceReservasi_034
         [DataMember]
         public int JumlahPemesanan { get; set; }
         [DataMember]
-        public string IdLokasi { get; set; }
+        public string Lokasi { get; set; }
     }
 }
